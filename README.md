@@ -39,7 +39,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/him4n-shu/comic_crafter_ai_using_LLM
 cd comic-crafter-ai
 ```
 
