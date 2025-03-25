@@ -1,0 +1,6 @@
+
+comic_env/          
+models/             
+.cache/            
+__pycache__/       
+*.pyc              
